@@ -1,0 +1,307 @@
+C:\Users\malli\OneDrive\Documents\project\project\project\bin\Debug\project.exe.config
+C:\Users\malli\OneDrive\Documents\project\project\project\bin\Debug\project.exe
+C:\Users\malli\OneDrive\Documents\project\project\project\bin\Debug\project.pdb
+C:\Users\malli\OneDrive\Documents\project\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\malli\OneDrive\Documents\project\project\project\obj\Debug\project.Login.resources
+C:\Users\malli\OneDrive\Documents\project\project\project\obj\Debug\project.SignUp.resources
+C:\Users\malli\OneDrive\Documents\project\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\malli\OneDrive\Documents\project\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\malli\OneDrive\Documents\project\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\malli\OneDrive\Documents\project\project\project\obj\Debug\project.exe
+C:\Users\malli\OneDrive\Documents\project\project\project\obj\Debug\project.pdb
+C:\Users\malli\OneDrive\Documents\project\project\project\obj\Debug\project.Inventory.resources
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\bin\Debug\project.exe.config
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\bin\Debug\project.exe
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\bin\Debug\project.pdb
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\bin\Debug\MaterialSkin.dll
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\obj\Debug\project.Billing.resources
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\obj\Debug\project.Inventory.resources
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\obj\Debug\project.Invoice.resources
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\obj\Debug\project.Login.resources
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\obj\Debug\project.SignUp.resources
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\obj\Debug\project.exe
+C:\Users\YC\Desktop\Project 2\project_4\project_3\project\project\obj\Debug\project.pdb
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\bin\Debug\project.exe
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\bin\Debug\MaterialSkin.dll
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\obj\Debug\project.Billing.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\obj\Debug\project.Inventory.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\obj\Debug\project.Invoice.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\obj\Debug\project.Login.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\obj\Debug\project.Lugin.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\obj\Debug\project.SignUp.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\obj\Debug\project.Properties.Resources.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\bin\Debug\project.exe.config
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\bin\Debug\project.pdb
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\obj\Debug\project.csproj.CopyComplete
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\obj\Debug\project.exe
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\obj\Debug\project.pdb
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\project_5\project\project\obj\Debug\project.Dashboard.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\bin\Debug\project.exe.config
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\bin\Debug\project.exe
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\bin\Debug\project.pdb
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\bin\Debug\MaterialSkin.dll
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\obj\Debug\project.Billing.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\obj\Debug\project.Dashboard.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\obj\Debug\project.Inventory.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\obj\Debug\project.Invoice.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\obj\Debug\project.Lugin.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\obj\Debug\project.SignUp.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\obj\Debug\project.Properties.Resources.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\obj\Debug\project.csproj.CopyComplete
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\obj\Debug\project.exe
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project_2\project\project\obj\Debug\project.pdb
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\bin\Debug\project.exe.config
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\bin\Debug\project.exe
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\bin\Debug\project.pdb
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\bin\Debug\MaterialSkin.dll
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.Billing.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.Dashboard.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.Inventory.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.Invoice.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.Lugin.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.SignUp.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.Properties.Resources.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.csproj.CopyComplete
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.exe
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.pdb
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\malli\OneDrive\Documents\project\ims\project\bin\Debug\project.exe.config
+C:\Users\malli\OneDrive\Documents\project\ims\project\bin\Debug\project.exe
+C:\Users\malli\OneDrive\Documents\project\ims\project\bin\Debug\project.pdb
+C:\Users\malli\OneDrive\Documents\project\ims\project\bin\Debug\MaterialSkin.dll
+C:\Users\malli\OneDrive\Documents\project\ims\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\malli\OneDrive\Documents\project\ims\project\obj\Debug\project.Billing.resources
+C:\Users\malli\OneDrive\Documents\project\ims\project\obj\Debug\project.Dashboard.resources
+C:\Users\malli\OneDrive\Documents\project\ims\project\obj\Debug\project.Inventory.resources
+C:\Users\malli\OneDrive\Documents\project\ims\project\obj\Debug\project.Invoice.resources
+C:\Users\malli\OneDrive\Documents\project\ims\project\obj\Debug\project.Lugin.resources
+C:\Users\malli\OneDrive\Documents\project\ims\project\obj\Debug\project.SignUp.resources
+C:\Users\malli\OneDrive\Documents\project\ims\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\malli\OneDrive\Documents\project\ims\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\malli\OneDrive\Documents\project\ims\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\malli\OneDrive\Documents\project\ims\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\malli\OneDrive\Documents\project\ims\project\obj\Debug\project.exe
+C:\Users\malli\OneDrive\Documents\project\ims\project\obj\Debug\project.pdb
+C:\Users\malli\OneDrive\Documents\project\ims\project\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\malli\OneDrive\Documents\project\ims\project\obj\Debug\project.Presentation_Layer.Confirmation.resources
+C:\Users\malli\OneDrive\Documents\project\ims\project\obj\Debug\project.Presentation_Layer.Editing.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.Presentation_Layer.Confirmation.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.Presentation_Layer.Editing.resources
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.Billing.resources
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.Presentation_Layer.Confirmation.resources
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.Dashboard.resources
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.Inventory.resources
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.Invoice.resources
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.Presentation_Layer.Editing.resources
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.Lugin.resources
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.Presentation_Layer.Sugnup.resources
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.SignUp.resources
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.exe
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.pdb
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.Presentation_Layer.Logan.resources
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\bin\Debug\project.exe.config
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\bin\Debug\project.exe
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\bin\Debug\project.pdb
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\bin\Debug\MaterialSkin.dll
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Hamza\OneDrive\Desktop\Project OOP\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\malli\OneDrive\Documents\IMS\project\bin\Debug\project.exe.config
+C:\Users\malli\OneDrive\Documents\IMS\project\bin\Debug\project.exe
+C:\Users\malli\OneDrive\Documents\IMS\project\bin\Debug\project.pdb
+C:\Users\malli\OneDrive\Documents\IMS\project\bin\Debug\MaterialSkin.dll
+C:\Users\malli\OneDrive\Documents\IMS\project\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\malli\OneDrive\Documents\IMS\project\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\malli\OneDrive\Documents\IMS\project\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.Billing.resources
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.Presentation_Layer.Confirmation.resources
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.Dashboard.resources
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.Inventory.resources
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.Invoice.resources
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.Presentation_Layer.Editing.resources
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.Presentation_Layer.Login.resources
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.Lugin.resources
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.Presentation_Layer.Signup.resources
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.SignUp.resources
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.exe
+C:\Users\malli\OneDrive\Documents\IMS\project\obj\Debug\project.pdb
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.Presentation_Layer.Login.resources
+D:\OneDrive - Higher Education Commission\3rd Semester\OOP\Project 2\Github pe pange\project\obj\Debug\project.Presentation_Layer.Signup.resources
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\bin\Debug\project.exe.config
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\bin\Debug\project.exe
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\bin\Debug\project.pdb
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\bin\Debug\MaterialSkin.dll
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.Billing.resources
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.Presentation_Layer.Confirmation.resources
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.Dashboard.resources
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.Inventory.resources
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.Invoice.resources
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.Presentation_Layer.Editing.resources
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.Presentation_Layer.Login.resources
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.Lugin.resources
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.Presentation_Layer.Signup.resources
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.SignUp.resources
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.exe
+C:\Users\Hamza\OneDrive\Desktop\Project 2.0\project\obj\Debug\project.pdb
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.Billing.resources
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.Presentation_Layer.Confirmation.resources
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.Dashboard.resources
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.Inventory.resources
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.Invoice.resources
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.Presentation_Layer.Editing.resources
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.Presentation_Layer.Login.resources
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.Lugin.resources
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.Presentation_Layer.NewVendor.resources
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.Presentation_Layer.Signup.resources
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.SignUp.resources
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.exe
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.pdb
+C:\Users\malli\Source\Repos\3rdSem\project\bin\Debug\project.exe.config
+C:\Users\malli\Source\Repos\3rdSem\project\bin\Debug\project.exe
+C:\Users\malli\Source\Repos\3rdSem\project\bin\Debug\project.pdb
+C:\Users\malli\Source\Repos\3rdSem\project\bin\Debug\MaterialSkin.dll
+C:\Users\malli\Source\Repos\3rdSem\project\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\malli\Source\Repos\3rdSem\project\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\malli\Source\Repos\3rdSem\project\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\malli\Source\Repos\3rdSem\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\YC\Desktop\Project\3rdSem\project\bin\Debug\project.exe.config
+C:\Users\YC\Desktop\Project\3rdSem\project\bin\Debug\project.exe
+C:\Users\YC\Desktop\Project\3rdSem\project\bin\Debug\project.pdb
+C:\Users\YC\Desktop\Project\3rdSem\project\bin\Debug\MaterialSkin.dll
+C:\Users\YC\Desktop\Project\3rdSem\project\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\YC\Desktop\Project\3rdSem\project\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\YC\Desktop\Project\3rdSem\project\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\YC\Desktop\Project\3rdSem\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\YC\Desktop\Project\3rdSem\project\obj\Debug\project.Presentation_Layer.Confirmation.resources
+C:\Users\YC\Desktop\Project\3rdSem\project\obj\Debug\project.Dashboard.resources
+C:\Users\YC\Desktop\Project\3rdSem\project\obj\Debug\project.Presentation_Layer.Editing.resources
+C:\Users\YC\Desktop\Project\3rdSem\project\obj\Debug\project.Presentation_Layer.Login.resources
+C:\Users\YC\Desktop\Project\3rdSem\project\obj\Debug\project.Presentation_Layer.NewVendor.resources
+C:\Users\YC\Desktop\Project\3rdSem\project\obj\Debug\project.Presentation_Layer.Signup.resources
+C:\Users\YC\Desktop\Project\3rdSem\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\YC\Desktop\Project\3rdSem\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\YC\Desktop\Project\3rdSem\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\YC\Desktop\Project\3rdSem\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\YC\Desktop\Project\3rdSem\project\obj\Debug\project.exe
+C:\Users\YC\Desktop\Project\3rdSem\project\obj\Debug\project.pdb
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\obj\Debug\project.Presentation_Layer.Confirmation.resources
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\obj\Debug\project.Dashboard.resources
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\obj\Debug\project.Presentation_Layer.Editing.resources
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\obj\Debug\project.Presentation_Layer.Login.resources
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\obj\Debug\project.Presentation_Layer.NewVendor.resources
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\obj\Debug\project.Presentation_Layer.Signup.resources
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\obj\Debug\project.exe
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\obj\Debug\project.pdb
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\bin\Debug\project.exe.config
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\bin\Debug\project.exe
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\bin\Debug\project.pdb
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\bin\Debug\MaterialSkin.dll
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\3rdSem\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\bin\Debug\project.exe.config
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\bin\Debug\project.exe
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\bin\Debug\project.pdb
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\bin\Debug\MaterialSkin.dll
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\obj\Debug\project.Presentation_Layer.Confirmation.resources
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\obj\Debug\project.Dashboard.resources
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\obj\Debug\project.Presentation_Layer.Editing.resources
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\obj\Debug\project.Presentation_Layer.Login.resources
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\obj\Debug\project.Presentation_Layer.NewVendor.resources
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\obj\Debug\project.Presentation_Layer.Signup.resources
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\obj\Debug\project.exe
+C:\Users\malli\Downloads\Project\Inventory Management System\Project\taha\project\obj\Debug\project.pdb
+C:\Users\malli\Downloads\Project\AUC\taha\project\bin\Debug\project.exe.config
+C:\Users\malli\Downloads\Project\AUC\taha\project\bin\Debug\project.exe
+C:\Users\malli\Downloads\Project\AUC\taha\project\bin\Debug\project.pdb
+C:\Users\malli\Downloads\Project\AUC\taha\project\bin\Debug\MaterialSkin.dll
+C:\Users\malli\Downloads\Project\AUC\taha\project\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\malli\Downloads\Project\AUC\taha\project\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\malli\Downloads\Project\AUC\taha\project\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\malli\Downloads\Project\AUC\taha\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\malli\Downloads\Project\AUC\taha\project\obj\Debug\project.Presentation_Layer.Confirmation.resources
+C:\Users\malli\Downloads\Project\AUC\taha\project\obj\Debug\project.Dashboard.resources
+C:\Users\malli\Downloads\Project\AUC\taha\project\obj\Debug\project.Presentation_Layer.Editing.resources
+C:\Users\malli\Downloads\Project\AUC\taha\project\obj\Debug\project.Presentation_Layer.Login.resources
+C:\Users\malli\Downloads\Project\AUC\taha\project\obj\Debug\project.Presentation_Layer.NewVendor.resources
+C:\Users\malli\Downloads\Project\AUC\taha\project\obj\Debug\project.Presentation_Layer.Signup.resources
+C:\Users\malli\Downloads\Project\AUC\taha\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\malli\Downloads\Project\AUC\taha\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\malli\Downloads\Project\AUC\taha\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\malli\Downloads\Project\AUC\taha\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\malli\Downloads\Project\AUC\taha\project\obj\Debug\project.exe
+C:\Users\malli\Downloads\Project\AUC\taha\project\obj\Debug\project.pdb
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\bin\Debug\project.exe.config
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\bin\Debug\project.exe
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\bin\Debug\project.pdb
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\bin\Debug\MaterialSkin.dll
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\obj\Debug\project.Presentation_Layer.Confirmation.resources
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\obj\Debug\project.Dashboard.resources
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\obj\Debug\project.Presentation_Layer.Editing.resources
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\obj\Debug\project.Presentation_Layer.Login.resources
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\obj\Debug\project.Presentation_Layer.NewVendor.resources
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\obj\Debug\project.Presentation_Layer.Signup.resources
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\obj\Debug\project.exe
+C:\Users\talha\OneDrive\Desktop\AUC\taha\project\obj\Debug\project.pdb
